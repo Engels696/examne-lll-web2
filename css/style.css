@@ -1,0 +1,77 @@
+body{
+  font-style: bold;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 3rem;
+}
+a{
+  text-decoration: none;
+  font-size: 2rem;
+  
+}
+
+h1 {
+  text-align:unset;
+  font-size: 2rem;
+  color:blueviolet;
+  width: 200px;
+}
+p{
+  width: 60%;
+}
+
+section{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10%;
+  margin-top: 0%;
+}
+
+.logo{
+  max-width: 50%;
+}
+
+button{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  padding: 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  margin-bottom: 30px;
+  background-color: blue;
+color: azure;
+margin-left: 60px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
